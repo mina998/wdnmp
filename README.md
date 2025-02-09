@@ -2,12 +2,12 @@
 
 #### Download
 ```
-apt update && apt install git -y && git clone -b main --depth 1 https://github.com/mina998/wpdo2 main
+apt update && apt install git -y && git clone --depth 1 https://github.com/mina998/wdnmp
 ```
 
 #### Deploy Environment
 ```
-bash main/install.sh
+bash wdnmp/install.sh
 ```
 
 ##### Add Sites
